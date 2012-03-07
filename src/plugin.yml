@@ -1,0 +1,4 @@
+name: JumpingBlock
+main: com.tistory.illysig.JumpingBlock.JumpingBlockPlugin
+author: illysig
+version: 1.2.3
